@@ -4,8 +4,6 @@
 - ## Skills⭐
   - javascript, react , next js, tailwind
 
-## Contact
 
- feel free to contact me at nkemahjunior679205967@gmail.com.
 
 
