@@ -2,7 +2,7 @@
 - 🌴 Welcome to my GitHub profile! I am a final year computer science student. I am passionate about software development and I am always looking for new opportunities to learn and grow
 
 - ## Skills⭐
-  - javascript, react , next js, tailwind
+  - Javascript, Typescript, React, Next.js, Tailwind, Spring boot
 
 
 
